@@ -13,4 +13,6 @@ M.A.D.-Modular-Digit-Tools
 ​Attachment Mechanism: Interchangeable clip-system for brush heads, scrapers, or specialized tools.
 ​Assistive Application (The "Grandmother/Accessibility" Protocol):
 ​Function: Enables creative or functional work for users with dexterity challenges (e.g., arthritis, limited motor control).
-​Versatility: Design can be adapted for hand, foot, or arm-mounting, depending on the user's specific range of motion.# M.A.D.-Modular-Digit-Tools
+​Versatility: Design can be adapted for hand, foot, or arm-mounting, depending on the user's specific range of motion.
+"Idea: Evolved from glove-based prototype to modular ring/palm-anchor system for universal accessibility."
+# M.A.D.-Modular-Digit-Tools
